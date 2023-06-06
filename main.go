@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Bayashin/kajilab_study/itp1_1"
+	"kajilab_study/itp1_1"
 )
 
 func main() {
