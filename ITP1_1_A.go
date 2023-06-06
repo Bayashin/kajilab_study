@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func itp1_1_a() {
+func Itp1_1_a() {
 	fmt.Println("Hello World")
 }
